@@ -4,7 +4,14 @@
   <url>
     <loc>http://yoursite.com/2020/04/01/how-to-read-two/</loc>
     
-    <lastmod>2020-03-31T23:09:19.854Z</lastmod>
+    <lastmod>2020-04-04T23:53:53.260Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/14/how%20to%20read-one/</loc>
+    
+    <lastmod>2020-04-04T23:50:13.486Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/2020/03/14/About-Confusion/</loc>
     
     <lastmod>2020-03-28T16:01:43.939Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/03/14/how%20to%20read-one/</loc>
-    
-    <lastmod>2020-03-28T15:59:43.441Z</lastmod>
     
   </url>
   
